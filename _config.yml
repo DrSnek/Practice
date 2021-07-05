@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 
-is-project-page: false
+github: 
+  is_project_page: false
